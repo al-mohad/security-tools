@@ -6,8 +6,8 @@ from twilio.rest import Client
 
 # Your Account Sid and Auth Token from twilio.com/console
 # DANGER! This is insecure. See http://twil.io/secure
-account_sid = 'ACed0f52e410d6e696a880494846262ba7'
-auth_token = '72001ac0396011ff8dacfefaeb913e91'
+account_sid = ''
+auth_token = ''
 client = Client(account_sid, auth_token)
 my_message = '''Dear Sir/Madam,
 We have logged your IP-address on more than 40 illegal Websites.
