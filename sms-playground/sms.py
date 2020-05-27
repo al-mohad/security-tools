@@ -13,7 +13,7 @@ my_message = '''Dear Sir/Madam,
 We have logged your IP-address on more than 40 illegal Websites.
 Important: Please answer our questions! The list of questions are attached.
 Yours faithfully,
-Ibrahim Magu
+John Adekule
 Economic and Financial Crimes Commission -EFCC-
 No. 5, Fomella Street, Off Adetokunbo Ademola Crescent,:
 Wuse II,: Abuja,: Nigeria.

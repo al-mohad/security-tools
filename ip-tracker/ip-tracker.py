@@ -10,6 +10,7 @@ if __name__ == '__main__':
     url = 'http://ip-api.com/json/' + ip
     response = requests.get(url)
     data = json.loads(response.content)
+
     # print(data)
     print('\t[+] IP\t\t\t', data['query'])
     print('\t[+] CITY\t\t', data['city'])
